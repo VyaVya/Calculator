@@ -16,7 +16,7 @@ public class Calculator {
         double inputY = input.nextDouble();
 
         if (operator == '+'){
-            answer = CalcOperations.
+      //      answer = CalcOperations();
         }
 
     }
